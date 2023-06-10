@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goushikk&label=Profile%20views&color=0e75b6&style=flat" alt="goushikk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goushikk" alt="goushikk" /></a> </p>
-
 - 🔭 I’m currently working on [Lunarian Bot](https://discord.com/api/oauth2/authorize?client_id=1111669556008734811&permissions=8&scope=bot)
 
 - 🌱 I’m currently learning **CSS**
