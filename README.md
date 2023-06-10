@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Goushik Krishna</h1>
+h1 align="center"> Hi 👋, I'm Goushik Krishna </h1>
 <h3 align="center">A passionate JS, C, Python and HTML developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goushikk&label=Profile%20views&color=0e75b6&style=flat" alt="goushikk" /> </p>
