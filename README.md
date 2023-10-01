@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Lunarian Bot](https://discord.com/api/oauth2/authorize?client_id=1111669556008734811&permissions=8&scope=bot)
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **Solidty**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Goushikk](https://github.com/Goushikk)
 
