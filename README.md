@@ -1,33 +1,33 @@
-<h1 align="center">Hi 👋, I'm Goushik Krishna</h1>
-<h3 align="center">A passionate JS, C, Python and HTML developer from India</h3>
+<div align="center">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goushikk&label=Profile%20views&color=0e75b6&style=flat" alt="goushikk" /> </p>
+![Preview](banner.jpg)
 
-- 🔭 I’m currently working on [Lunarian Bot](https://discord.com/api/oauth2/authorize?client_id=1111669556008734811&permissions=8&scope=bot)
+### Hi!👋 I'm Goushik👒
 
-- 🌱 I’m currently learning **Solidty**
+**Python Developer | Tech Enthusiast | Gamer** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Goushikk](https://github.com/Goushikk)
+## **☕ About me**
+<a href="https://github.com/Goushikk"><img align="left" width="100" src="grez_switch.png"></a>
+I'm Goushik and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
+<br><br>
 
-- 📫 How to reach me **krishnagoushik@gmail.com**
+## **📫 Contact**
+<a href="https://github.com/Goushikk"><img align="right" width="100" src="grez_box.png" /></a>
+**Please Contact me on Discord for a quick response:** [Goushik](https://discord.com/users/571568754903744513)
 
-- 📄 Know about my experiences [goushik.xyz](goushik.xyz)
+**You can also email me here:** krishnagoushik@gmail.com
 
-- ⚡ Fun fact **I used to code when I m tired**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/goushik.h4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goushik.h4x" height="30" width="40" /></a>
-</p>
+[![](https://img.shields.io/github/followers/Grezaski?label=Followers&style=social)](https://github.com/Goushikk)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/8z3Kk4G4Yy)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:krishnagoushik@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+## **📊 GitHub Stats**
+<div align="center">
+  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goushikk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/goushik18"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/goushik18" /></a></p><br><br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Goushikk&layout=compact&theme=radical&hide_border=true&exclude_repo=repo1,repo2)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goushikk&show_icons=true&locale=en&layout=compact" alt="goushikk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goushikk&show_icons=true&locale=en" alt="goushikk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goushikk&" alt="goushikk" /></p>
+![Streak Stats](https://streak-stats.demolab.com/?user=Goushikk&theme=radical&hide_border=true)
